@@ -1,0 +1,19 @@
+.MarkupPagerNav {
+  display: flex;
+  margin: 0
+}
+
+.MarkupPagerNav li,
+.MarkupPagerNav li a {
+  display: block
+}
+
+.MarkupPagerNav li a {
+	padding: 2px 8px;
+	color: #222;
+	border: 1px solid #999
+}
+
+.MarkupPagerNav li {
+  margin-right: 5px
+}
